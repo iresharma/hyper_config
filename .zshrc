@@ -7,14 +7,6 @@ export ZSH="/Users/iresharma/.oh-my-zsh"
 # PATH VARIABLES
 export PATH="$PATH:/Users/iresharma/Dev/flutter/bin"
 export PATH="$PATH:/Users/iresharma/Dev"
-# ====================================================================================
-export SELLULAR_DBURL=""
-export SELLULAR_AWS_S3_ACCESS_KEY=""
-export SELLULAR_AWS_S3_SECRET_KEY=""
-export SELLULAR_AUTH0_DOMAIN=""
-export SELLULAR_AUTH0_AUDIENCE=""
-# ====================================================================================
-export MONGO_URI="mongodb+srv://iresharma:Mahesh-01022001@cluster0.cyiv3.mongodb.net/Sellular_app?retryWrites=true&w=majority"
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
